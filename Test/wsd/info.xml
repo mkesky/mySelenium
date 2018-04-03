@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <base>
+    <platform>windows</platform>
+    <browser>windows</browser> 
+    <url>www.baidu.com</url> 
+      <login username="admin" password="123456"/>
+      <login username="guest" password="654321"/>
+  </base>
+   
+ <test>
+    <provice>北京</provice>
+    <provice>上海</provice>
+      <city>深圳</city>
+      <city>广州</city>
+    <provice>浙江</provice>
+       <city>杭州</city>
+
+ </test>
+
+</info>

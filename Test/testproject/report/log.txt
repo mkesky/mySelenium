@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "runtest.py", line 10, in <module>
+    discover = unittest.defaultTestLoader.discover(test_dir,pattern="test*.py")
+  File "E:\ActivePython\lib\unittest\loader.py", line 338, in discover
+    raise ImportError('Start directory is not importable: %r' % start_dir)
+ImportError: Start directory is not importable: './testproject/test_case'
